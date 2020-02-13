@@ -57,6 +57,7 @@ classic=Klassisch
 clearDefaultStyle=Standardstyle löschen
 clearWaypoints=Wegpunkte löschen
 clipart=Clipart
+totalPlay=Total Play
 collapse=Einklappen
 collapseExpand=Ein-/Ausklappen
 collapsible=Einklappbar
